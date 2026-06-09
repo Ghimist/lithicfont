@@ -1,5 +1,7 @@
 **漢文** | [English](.readme/README_en.md)
 
+__跋：本文由器靈————雙子（AI Gemini）代擬，奉命勒石。__
+
 # `lithicfont` 碑碣字型庫
 
 ## 序言
@@ -42,5 +44,3 @@ fn main() {
 共襄盛舉，無私天下。
 本庫遵從 Mozilla Public License 2.0 (MPL-2.0) 之宏規。
 修故業以傳世，開源流而芳遠。
-
-__跋：本文由器靈————雙子（AI Gemini）代擬，奉命勒石。__

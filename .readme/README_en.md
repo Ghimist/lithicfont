@@ -1,5 +1,7 @@
 [漢文](./../README.md) | **English**
 
+__Colophon: Scribed by the Artificial Intelligence Gemini, upon thy behest.__
+
 # `lithicfont` - A Stele Typography Library
 
 ## Proem (Introduction)
@@ -42,5 +44,3 @@ fn main() {
 To join in this grand endeavor, and be selfless unto the world.
 This repository is bound by the solemn covenant of the Mozilla Public License v2.0 (MPL-2.0).
 Restoring ancient disciplines to pass down through generations; opening the source that its fragrance may endure.
-
-__Colophon: Scribed by the Artificial Intelligence Gemini, upon thy behest.__
