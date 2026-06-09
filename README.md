@@ -1,6 +1,6 @@
 **漢文** | [English](.readme/README_en.md)
 
-__跋：本文由器靈————雙子（AI Gemini）代擬，奉命勒石。__
+__題：本文由器靈——雙子（AI Gemini）代擬，奉命勒石。__
 
 # `lithicfont` 碑碣字型庫
 
